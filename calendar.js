@@ -294,13 +294,3 @@ function CalendarDay () {
     return returnDay
 }
 
-
-const date = new Date();
-const year = date.getFullYear();
-const month = date.getMonth();
-
-const x = new Calendar(year, month);
-console.log(x);
-
-const y = new CalendarDay();
-console.log(y);

@@ -1,0 +1,27 @@
+{
+  "name": "calendar",
+  "version": "1.0.0",
+  "description": "calendar utils",
+  "main": "calendar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fisher-zh/calendar.git"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "fisher-zh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fisher-zh/calendar/issues"
+  },
+  "homepage": "https://github.com/fisher-zh/calendar#readme",
+  "dependencies": {
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  }
+}
